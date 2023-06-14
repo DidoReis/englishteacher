@@ -4,7 +4,7 @@ import pyttsx3
 import openai
 import random
 
-openai.api_key = 'Your Api Key'
+openai.api_key = 'Your API Key'
 
 
 def recognize_speech():
